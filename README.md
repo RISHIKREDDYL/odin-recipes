@@ -6,4 +6,6 @@ The website is designed to display various recipes and can be expanded and impro
 
 Feel free to explore the provided recipes and get inspired to try them out in your own kitchen. This project is a great way to practice HTML and embark on your culinary journey. Happy cooking!
 
+[Live Site](https://rishikreddyl.github.io/odin-recipes)
+
 *Note: This project is subject to evolution and may be updated and modified in the future.*
